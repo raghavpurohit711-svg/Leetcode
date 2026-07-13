@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0039-combination-sum](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0066-plus-one) |
 ## String
 |  |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
