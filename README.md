@@ -25,8 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0039-combination-sum) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
