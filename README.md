@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0066-plus-one) |
+| [1833-maximum-ice-cream-bars](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## String
 |  |
 | ------- |
@@ -57,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
