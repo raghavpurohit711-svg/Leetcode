@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Linked List
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
