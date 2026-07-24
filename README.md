@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0189-rotate-array) |
 | [1480-running-sum-of-1d-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0061-rotate-list) |
+| [0189-rotate-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
