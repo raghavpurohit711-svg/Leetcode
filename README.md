@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2485-find-the-pivot-integer](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Stack
 |  |
 | ------- |
