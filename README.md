@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0189-rotate-array) |
+| [0414-third-maximum-number](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0414-third-maximum-number) |
 | [1480-running-sum-of-1d-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0414-third-maximum-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
