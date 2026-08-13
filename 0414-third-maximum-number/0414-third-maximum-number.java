@@ -1,11 +1,9 @@
 import java.util.Arrays;
-import java.util.Collections;
 class Solution {
     public int thirdMax(int[] nums) {
         Arrays.sort(nums);
-        int size = nums.length;
         int i = 0;
-        for (int j=1;j<size;j++){
+        for (int j=1;j<nums.length;j++){
             if (nums[j]!=nums[i]){
                 i++;
                 nums[i]=nums[j];
