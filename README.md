@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0414-third-maximum-number) |
 | [1480-running-sum-of-1d-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
