@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0414-third-maximum-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1470-shuffle-the-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
