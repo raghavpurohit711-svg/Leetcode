@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Linked List
 |  |
 | ------- |
