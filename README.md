@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0414-third-maximum-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0414-third-maximum-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
