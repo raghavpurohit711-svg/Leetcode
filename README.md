@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Greedy
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Simulation
 |  |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0069-sqrtx) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
