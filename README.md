@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0389-find-the-difference) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Greedy
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0414-third-maximum-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
 |  |
