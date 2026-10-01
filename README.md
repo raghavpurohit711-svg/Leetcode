@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Trie
 |  |
