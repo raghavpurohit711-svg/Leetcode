@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Trie
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/0189-rotate-array) |
+| [1768-merge-strings-alternately](https://github.com/raghavpurohit711-svg/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
