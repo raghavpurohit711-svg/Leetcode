@@ -1,0 +1,25 @@
+class Solution {
+    public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
+        StringBuilder sb1 = new StringBuilder();
+        StringBuilder sb2 = new StringBuilder();
+        for (int i=0;i<word1.length;i++){
+            for(int j=0;j<word1[i].length();j++){
+                sb1.append(word1[i].charAt(j));
+            }
+        }
+        for (int i=0;i<word2.length;i++){
+            for (int j=0;j<word2[i].length();j++){
+                sb2.append(word2[i].charAt(j));
+            }
+        }
+        if (sb1.length() !=sb2.length()){
+            return false;
+        }
+        for(int i=0;i<sb2.length();i++){
+            if(sb1.charAt(i)!=sb2.charAt(i)){
+                return false;
+            }
+        }
+        return true;
+    }
+}
